@@ -1,23 +1,23 @@
-# SQL Injection Scanner
+# Wokirxv1 - SQL Injection Scanner
 
-This Python script is designed to help detect potential SQL injection vulnerabilities in web applications. It offers options to use basic and extended sets of SQL injection payloads for testing purposes.
-
-## Usage
-
-1. Clone this repository.
-2. Install Python and required libraries: `requests`.
-3. Run the script: `python sql_injection_scanner.py`
-4. Follow the prompts to input the URL and select the payload type.
+Wokirxv1 is a Python script designed to help detect potential SQL injection vulnerabilities in web applications. It offers flexibility in choosing between predefined and custom SQL injection payloads and features a user-friendly, colorful console interface.
 
 ## Features
 
-- Basic and Extended payload options for different levels of testing.
-- Simple command-line interface for ease of use.
+- **Predefined Payloads**: Choose from basic or extended payloads for quick testing.
+- **Custom Payloads**: Load your own payload lists from a file for more targeted and extensive testing.
+- **Colorful Console Output**: Enhanced visibility with color-coded messages that improve readability and user interaction.
+- **User-Friendly**: Simple command-line prompts guide the user through the testing process.
 
-## Legal Disclaimer
+## Installation
 
-This tool is for educational and ethical testing purposes only. Use of this tool on any website or application without explicit permission is illegal and unethical.
+1. Clone or download the repository to your local machine.
+2. Ensure you have Python installed (version 3.6 or higher is recommended).
+3. Install the required Python libraries:
+   ```bash
+- **pip install requests
+- **python3 Wokirxv1.py
+- **ENJOY! 
 
-## License
+_______________________________________________________________________________________________
 
-This project is licensed under the MIT License - see the LICENSE file for details.
