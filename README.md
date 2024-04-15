@@ -15,9 +15,11 @@ Wokirxv1 is a Python script designed to help detect potential SQL injection vuln
 2. Ensure you have Python installed (version 3.6 or higher is recommended).
 3. Install the required Python libraries:
    ```bash
-- **pip install requests
-- **python3 Wokirxv1.py
-- **ENJOY! 
+   pip install requests
+   python3 Wokirxv1.py
+     
+**ENJOY!**
+**<3**
 
 _______________________________________________________________________________________________
 
